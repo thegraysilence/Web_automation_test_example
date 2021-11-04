@@ -11,7 +11,7 @@ exports.config = merge(baseConfig.config, {
         },
         user2: {
             capabilities: {
-                browserName: 'chrome'
+                browserName: 'firefox'
             }
         }
     }
