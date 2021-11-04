@@ -1,4 +1,5 @@
 npm install
+
 npm run multi
 
 Video recording from Jenkins. Couldn't understand what's the issue.
